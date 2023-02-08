@@ -1,0 +1,46 @@
+
+.Container
+{
+    position:  relative;
+    background-color: green;
+    width: 300px;
+    height: 300px;
+}
+.red
+{
+  height:100px;
+  width:100px;
+  background-color: red;
+  position: absolute;
+  top: 200px;
+  left: 200px;
+  
+  
+}
+
+.Blue
+{
+  height : 100px;
+  width : 100px;
+  background-color: blue;
+  position: absolute;
+  
+  top: 100px;
+  left: 100px;
+  
+  
+}
+
+.Yellow
+{
+  height: 100px;
+  width:100px;
+  background-color: Yellow;
+  position: absolute;
+  
+
+
+}
+body{
+    margin: 0px;
+}
