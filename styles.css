@@ -1,0 +1,200 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Itim', cursive;
+    
+
+}
+.TopContainer{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+    margin-bottom: 100px;
+}
+h1{
+    font-size: 4rem;    /*this em is not the italics tag used in html*/
+    margin: 30px auto 30px auto;
+    font-family: 'Sacramento', cursive;
+    color: #0b826c;
+    line-height: 1 ;
+}
+.Cherry
+{   
+    margin: 15px;
+    font-size: 2.5rem;
+    font-family: 'Marck Script', cursive;
+
+    color: #11999E;
+    
+}
+.Top
+{
+    position: absolute;
+    right :310px;
+    top: 50px ;
+
+}
+.Bottom
+{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+  
+.Round
+{
+    
+    border-radius:45%;
+    border: solid burlywood 10px;
+    width: 13%;
+    margin:auto auto 50px auto;
+    
+    
+}
+.profile
+{
+    margin: auto;
+    text-align: center;
+
+}
+.Coder
+{
+    border: solid burlywood 5px;
+    border-radius: 100%;
+    
+}
+
+.Hardcore1
+{
+    border-radius:45%;
+    border: solid burlywood 10px;
+    width: 9%;
+    float: left;
+    margin-right: 30px;
+    
+}
+.Hardcore2
+{
+    border-radius:45%;
+    border: solid burlywood 10px;
+    width: 14%;
+    float: right;
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    
+}
+hr {
+    
+    border-style: none;
+    border-top-style: dotted;
+    height: 0px;
+    border-color: grey;
+    border-width: 5px; 
+    margin-bottom: 100px;
+    margin-top: 100px;
+
+    width: 10%;
+  }
+
+
+h2{
+    color: #0b826c;
+    font-weight: normal;
+    font-family: 'Marck Script', cursive;
+    font-family: 'Permanent Marker', cursive;
+
+}
+h3{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+
+}  
+
+.footer-link
+{
+ text-decoration: none;
+    color: #143d34;
+}
+.footer-link:hover{
+    color:aliceblue;
+
+}
+
+.skill-row
+{
+    margin: 100px;
+    text-align: left;
+    line-height: 2;
+}
+.skills
+{
+    margin: auto 250px auto 250px;
+}
+.btn {
+    background: #11999E;
+    background-image: -webkit-linear-gradient(top, #11999E, #1cb2ba);
+    background-image: -moz-linear-gradient(top, #11999E, #1cb2ba);
+    background-image: -ms-linear-gradient(top, #11999E, #1cb2ba);
+    background-image: -o-linear-gradient(top, #11999E, #1cb2ba);
+    background-image: linear-gradient(to bottom, #11999E, #1cb2ba);
+    -webkit-border-radius: 13;
+    -moz-border-radius: 13;
+    border-radius: 13px;
+    -webkit-box-shadow: 0px 0px 12px #666666;
+    -moz-box-shadow: 0px 0px 12px #666666;
+    box-shadow: 0px 0px 12px #666666;
+    font-family: Courier New;
+    color: #000000;
+    font-size: 22px;
+    padding: 6px;
+    border: solid #000000 0px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+  .Hello
+  {
+   
+    font-family: 'Itim', cursive;
+    line-height: 2;
+    width:30%;
+    margin:auto;
+    
+  }
+  .Hello1
+  {
+    
+    line-height: 2;
+    font-family: 'Permanent Marker', cursive;
+    color: #0b826c;
+    margin: auto auto 35px auto;
+    
+  }
+  .bottom-container
+{
+  background-color:  #17caa9;
+  margin-top: 20px;
+
+}
+.copyright
+{
+    margin-bottom: 0;
+    font-size: 0.8rem;
+    padding-top: 20px ;
+    color: brown;
+}
+.Touch-me
+{
+  line-height: 2;
+   margin: auto auto 30px auto;
+   width : 30%;
+}
